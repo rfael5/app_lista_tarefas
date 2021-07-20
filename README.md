@@ -9,5 +9,5 @@ Project from the PDO section in the web development course.
 
 The goal of this project is to practice working with database using PHP and SQL.
 
-In this project you develop a sistem where you can add tasks to do on a database.
+In this project you develop a system where you can add tasks to do on a database.
 You can update, delete and change the task's status from 'to do' to 'done'.
